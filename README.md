@@ -9,7 +9,9 @@
 .
 .
 </li>
+
 ### sequential circuits
+
 <li>
 .
 .
