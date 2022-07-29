@@ -1,15 +1,15 @@
 # Nand2Tetris
-##HDL files for 16 bit computer
-###primitive NAND to elementry gates
+## HDL files for 16 bit computer
+### primitive NAND to elementry gates
 ###combinational circuits
-<li>
+<li >
 .
 .
 .
 .
 .
 </li>
-###sequential circuits
+### sequential circuits
 .
 .
 .
