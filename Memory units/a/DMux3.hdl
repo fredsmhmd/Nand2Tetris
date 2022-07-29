@@ -1,0 +1,15 @@
+CHIP DMux3{
+	IN in[3],sel;
+	OUT a[3],b[3];
+	
+	PARTS:
+	//Dmux16
+	DMux(in=in[0],sel=sel,a=a[0],b=b[0]);
+	DMux(in=in[1],sel=sel,a=a[1],b=b[1]);
+	DMux(in=in[2],sel=sel,a=a[2],b=b[2]);
+	
+
+
+
+
+}
